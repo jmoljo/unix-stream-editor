@@ -1,0 +1,1 @@
+Works perfectly on both test files from websites, however valgrind gives errors when freeing the array of EditOps

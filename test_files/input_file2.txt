@@ -1,0 +1,13 @@
+This is first line. SSS SSS SSS sss sss sss.
+DDD DDD DDD. Anyway this will get deleted.
+ReplaceAll. These lines need to be deleted.
+Line number four.
+AAA SSS SSS SSS sss sss sss.
+Nothing. These lines need to be deleted. SSS SSS SSS sss sss sss.
+Seven. SSS SSS SSS sss sss sss.
+Eight. These lines need to be deleted.
+SSS SSS SSS sss sss sss.
+DUMB lines 1.
+DUMb lines 2. ReplaceAll.
+These lines need to be deleted.
+DUmb lines 3. SSS SSS SSS sss sss sss.

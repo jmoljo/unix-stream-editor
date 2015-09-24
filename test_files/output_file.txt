@@ -1,0 +1,30 @@
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -This is first line. RRR RRR RRR sss sss sss.
+Adding a line to each line.
+Adding a line again to left lines.
+Adding a line to each line.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -Line number four.
+Adding a line to each line.
+Adding a line again to left lines.
+This is line number 5 -At the beginning -AAA RRR RRR RRR sss sss sss.
+Adding a line to each line.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -Seven. RRR RRR RRR rrr rrr rrr.
+Adding a line to each line.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -RRR RRR RRR rrr rrr rrr.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -DUMB lines 1.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -DUMb lines 2. ReplaceAll.
+Adding a line to each line.
+Adding a line to each line.
+Adding a line again to left lines.
+At the beginning -DUmb lines 3. RRR RRR RRR sss sss sss.
