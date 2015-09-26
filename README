@@ -1,3 +1,4 @@
 This program does edits on stdin and outputs the new text to stdout. The edit commands are in a file and they are described at 
 http://www.cs.miami.edu/home/wuchtys/CSC322-15F/Assessment/StreamEditor.html The files were compiled on Red Hat Linux with gcc 
-using the makefile included in the directory.
+using the makefile included in the directory. The test files should work properly, however valgrind does give an error when 
+using free to release the allocated memory for some reason.
