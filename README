@@ -1,1 +1,2 @@
-Works perfectly on both test files from websites, however valgrind gives errors when freeing the array of EditOps
+This program does edits on stdin and outputs the new text to stdout. The edit commands are in a file and they are described at 
+http://www.cs.miami.edu/home/wuchtys/CSC322-15F/Assessment/StreamEditor.html 
